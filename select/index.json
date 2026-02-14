@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "標火",
+  "base_artist": "yanaginagi",
+  "createdAt": "2026-02-14T08:23:28.447274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "標火",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/01_標火_yanaginagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "標火",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_標火_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "標火",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_標火_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "標火",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_標火_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "標火",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_04_標火_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "標火",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_05_標火_やなぎなぎ.txt"
+    }
+  ]
+}
